@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to the Studio Solana experience
+
+I am currently working to update my existing and antiquated website to something a bit more modern and responsive leveraging:
+
+- Git
+- React
+- a robust design system (with...)
+- accessible & usable components
 
 <!--
 **StudioSolana/studiosolana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
